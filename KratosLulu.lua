@@ -1,4 +1,4 @@
--- 🅰🅸🅾 --
+-- 🐲🅰🅸🅾 --
 if Player.CharName ~= "Lulu" then return end
 require("common.log")
 module("Kratos Lulu", package.seeall, log.setup)
